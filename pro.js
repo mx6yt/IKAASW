@@ -644,4 +644,4 @@ const w = ['./img/up1.png','./img/up2.png','./img/up.png'];
 
 
 
-client.login(process.env.BOT_TOKEN);
+client.login("NjM4MzQ0MDMxMzAyMzIwMTU4.XbbWOQ.riWzoxyzdeJznE4b34CeuB-Kgq4");
